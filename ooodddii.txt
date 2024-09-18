@@ -1,1 +1,1 @@
-https://d37tco1tcfe7t3.cloudfront.net
+https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
