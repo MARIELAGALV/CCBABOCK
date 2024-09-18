@@ -1,1 +1,1 @@
-{ "keys":[ { "kty":"oct", "k":"hUCBeMbabQvg5ub4VJCSxw", "kid":"AGnzIoEVQKKqsC3snBpfEg" } ], "type":"temporary" }
+smrfs.m3u8
